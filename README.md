@@ -1,3 +1,2 @@
-# git_practice
-
-Testing Celestes branch and a push from Git locally to the Github repo over the internet
+# Git Practice 
+Small practice repo used to learn basic Git workflows (commit, branch, push).
